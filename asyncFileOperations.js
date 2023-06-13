@@ -10,6 +10,10 @@ const fileOperations = async () => {
     );
     // log stored data
     console.log(data);
+    // delete our initial file
+    await fsPromises.unlink(
+      path.join(__dirname, "files", "fileOperations.txt")
+    );
     //write the store data to a file
     await fsPromises.writeFile(
       path.join(__dirname, "files", "fileOperations.txt"),
@@ -26,6 +30,12 @@ const fileOperations = async () => {
       path.join(__dirname, "files", "fileOperations.txt"),
       path.join(__dirname, "files", "renamedFile.txt")
     );
+    //read renamed file
+    const newData = await fsPromises.readFile(
+      path.join(__dirname, "files", "renamedFile.txt"),
+      "utf8"
+    );
+    console.log(newData);
   } catch (err) {
     console.error(err);
   }
