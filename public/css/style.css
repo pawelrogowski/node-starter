@@ -1,0 +1,13 @@
+title {
+  display: none;
+}
+* {
+  display: block;
+  color: white;
+  background: black;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  border: 5px red solid;
+}

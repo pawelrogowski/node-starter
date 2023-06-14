@@ -1,11 +1,16 @@
-13.06.2023	07:32:18	b6813490-518f-4173-9b62-1b29be89ca51	/new-page	GET
-13.06.2023	07:32:18	4891b585-51b3-49a6-bd38-69dda34e56fc	/img/test.png	GET
-13.06.2023	07:32:18	a9a1cc08-dd89-466b-9f8f-eed8fc227a13	/favicon.ico	GET
-13.06.2023	07:33:04	bf651445-4590-4d8f-95a7-5732c3d48de8	/new-page	GET
-13.06.2023	07:33:04	11d65d8f-e5e6-4d6c-99c1-08aaa388416f	/img/test.png	GET
-13.06.2023	08:24:59	362f9049-97de-4893-88f3-38132f3626e6	/new-page	GET
-13.06.2023	08:24:59	26ee03ab-0fc8-49e5-8f6f-3517e782dae4	/img/test.png	GET
-13.06.2023	08:24:59	cb258808-f0d8-4d65-9eb3-e6b2678bdd8e	/new-page	GET
-13.06.2023	08:24:59	8a8d6c35-22c3-4dee-b481-4f59a892f158	/img/test.png	GET
-13.06.2023	08:24:59	c2ac364e-ccc2-4052-8943-01dba17ceb1b	/new-page	GET
-13.06.2023	08:24:59	2ae108e3-7446-41dd-aab2-74200c09ad1e	/img/test.png	GET
+14.06.2023	10:09:34	dea54d28-60ac-48e3-8a27-f0d74ee593fc	GET	undefined	/
+14.06.2023	10:09:34	4f8c6db7-afef-4938-a16f-59c341f8c78a	GET	undefined	/css/style.css
+14.06.2023	10:09:51	9bc49172-9a41-4539-a3b6-afe68bb5e7b8	GET	undefined	/
+14.06.2023	10:09:51	446295c4-f0d0-4ad2-bc7a-07153fcb6586	GET	undefined	/css/style.css
+14.06.2023	10:10:24	b622f4f6-d44a-4fba-868e-09f6b063c28e	GET	undefined	/
+14.06.2023	10:10:24	f8dd3dc9-f6c0-4cc7-a5d9-df0700ea909f	GET	undefined	/css/style.css
+14.06.2023	10:13:43	72c164e0-09f7-4ee7-96b0-c29a80336c39	GET	undefined	/
+14.06.2023	10:13:43	7d2e7150-7db9-4990-babf-e645ca11a459	GET	undefined	/css/style.css
+14.06.2023	10:13:52	bc486b35-a753-4bf0-bd81-1aebaefe6489	GET	undefined	/index
+14.06.2023	10:13:52	7288be0b-9ca3-4af2-be98-d58929d7a85b	GET	undefined	/css/style.css
+14.06.2023	10:13:59	7427bfb6-ff87-42fb-9a35-a1e6a2a01a84	GET	undefined	/index/asdasdasdasd
+14.06.2023	10:30:59	fb7ddfe1-9ad5-4e5c-9f1d-cf4c4a582398	GET	undefined	/index
+14.06.2023	10:31:00	95e817b6-942d-4220-ab3e-934ccf0d3d23	GET	undefined	/css/style.css
+14.06.2023	10:32:28	9242c133-97b9-4900-933c-13b88576a0d5	GET	undefined	/index/dfg
+14.06.2023	10:34:15	1cba3452-933f-4a0a-9cf7-a58eac75f941	GET	undefined	/iasdasd
+14.06.2023	10:37:19	859c89cf-9a87-48be-984d-ba3968ea8be7	GET	undefined	/indexhjk
